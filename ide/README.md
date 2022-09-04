@@ -1,6 +1,11 @@
 # IDE
 
-##
+## IDE
+> You can download IDEs from [Softwares@box.nju.edu.cn](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/).
+
+- [CLion](./CLion/)
+  - ***Highly Recommended***: CLion + Linux
+- [VSCode](./VSCode/)
 
 ## Online IDE
 - [Replit](https://replit.com/)
