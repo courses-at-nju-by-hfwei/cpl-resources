@@ -75,9 +75,6 @@
 
 > It supports the following platforms: Windows, Macosx, Linux, Android, iOS, *BSD and etc.
 
-- [list.h @ github](https://github.com/nbulischeck/list.h)
-> Linear Linked List Library
-
 - [mlib @ github](https://github.com/P-p-H-d/mlib)
 > Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
 
